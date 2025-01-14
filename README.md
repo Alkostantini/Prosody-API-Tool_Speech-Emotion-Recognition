@@ -130,7 +130,7 @@ pip install paho-mqtt emotion2vecplus matplotlib numpy pandas
 This project, part of the Prosody in Mental Health initiative, is developed at **Reutlingen University**.
 
 - **Author:** Mohamad Eyad Alkostantini   
-- **Supervisors:** Bakir Hadzic, Parvez Mohammed, (ViSiR, Actimi GmbH, Neuronation (Synaptikon GmbH) and PFH Göttingen)
+- **Supervisors:** Bakir Hadzic, Parvez Mohammed, (ViSiR)
 - **Professor:** Prof. Matthias Rätsch 
 
 We gratefully acknowledge their guidance and support throughout the project.
